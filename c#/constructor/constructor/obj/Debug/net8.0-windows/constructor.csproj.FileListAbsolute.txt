@@ -1,0 +1,16 @@
+C:\Users\zombi\OneDrive\Masaüstü\c#\constructor\constructor\bin\Debug\net8.0-windows\constructor.exe
+C:\Users\zombi\OneDrive\Masaüstü\c#\constructor\constructor\bin\Debug\net8.0-windows\constructor.deps.json
+C:\Users\zombi\OneDrive\Masaüstü\c#\constructor\constructor\bin\Debug\net8.0-windows\constructor.runtimeconfig.json
+C:\Users\zombi\OneDrive\Masaüstü\c#\constructor\constructor\bin\Debug\net8.0-windows\constructor.dll
+C:\Users\zombi\OneDrive\Masaüstü\c#\constructor\constructor\bin\Debug\net8.0-windows\constructor.pdb
+C:\Users\zombi\OneDrive\Masaüstü\c#\constructor\constructor\obj\Debug\net8.0-windows\constructor.Form1.resources
+C:\Users\zombi\OneDrive\Masaüstü\c#\constructor\constructor\obj\Debug\net8.0-windows\constructor.csproj.GenerateResource.cache
+C:\Users\zombi\OneDrive\Masaüstü\c#\constructor\constructor\obj\Debug\net8.0-windows\constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zombi\OneDrive\Masaüstü\c#\constructor\constructor\obj\Debug\net8.0-windows\constructor.AssemblyInfoInputs.cache
+C:\Users\zombi\OneDrive\Masaüstü\c#\constructor\constructor\obj\Debug\net8.0-windows\constructor.AssemblyInfo.cs
+C:\Users\zombi\OneDrive\Masaüstü\c#\constructor\constructor\obj\Debug\net8.0-windows\constructor.csproj.CoreCompileInputs.cache
+C:\Users\zombi\OneDrive\Masaüstü\c#\constructor\constructor\obj\Debug\net8.0-windows\constructor.dll
+C:\Users\zombi\OneDrive\Masaüstü\c#\constructor\constructor\obj\Debug\net8.0-windows\refint\constructor.dll
+C:\Users\zombi\OneDrive\Masaüstü\c#\constructor\constructor\obj\Debug\net8.0-windows\constructor.pdb
+C:\Users\zombi\OneDrive\Masaüstü\c#\constructor\constructor\obj\Debug\net8.0-windows\constructor.genruntimeconfig.cache
+C:\Users\zombi\OneDrive\Masaüstü\c#\constructor\constructor\obj\Debug\net8.0-windows\ref\constructor.dll

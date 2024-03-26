@@ -1,0 +1,17 @@
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma3\çalışma3\obj\Debug\net8.0-windows\çalışma3.Form1.resources
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma3\çalışma3\obj\Debug\net8.0-windows\çalışma3.Properties.Resources.resources
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma3\çalışma3\obj\Debug\net8.0-windows\çalışma3.csproj.GenerateResource.cache
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma3\çalışma3\obj\Debug\net8.0-windows\çalışma3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma3\çalışma3\obj\Debug\net8.0-windows\çalışma3.AssemblyInfoInputs.cache
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma3\çalışma3\obj\Debug\net8.0-windows\çalışma3.AssemblyInfo.cs
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma3\çalışma3\obj\Debug\net8.0-windows\çalışma3.csproj.CoreCompileInputs.cache
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma3\çalışma3\bin\Debug\net8.0-windows\çalışma3.exe
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma3\çalışma3\bin\Debug\net8.0-windows\çalışma3.deps.json
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma3\çalışma3\bin\Debug\net8.0-windows\çalışma3.runtimeconfig.json
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma3\çalışma3\bin\Debug\net8.0-windows\çalışma3.dll
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma3\çalışma3\bin\Debug\net8.0-windows\çalışma3.pdb
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma3\çalışma3\obj\Debug\net8.0-windows\çalışma3.dll
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma3\çalışma3\obj\Debug\net8.0-windows\refint\çalışma3.dll
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma3\çalışma3\obj\Debug\net8.0-windows\çalışma3.pdb
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma3\çalışma3\obj\Debug\net8.0-windows\çalışma3.genruntimeconfig.cache
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma3\çalışma3\obj\Debug\net8.0-windows\ref\çalışma3.dll

@@ -1,0 +1,16 @@
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma11\çalışma11\bin\Debug\net8.0-windows\çalışma11.exe
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma11\çalışma11\bin\Debug\net8.0-windows\çalışma11.deps.json
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma11\çalışma11\bin\Debug\net8.0-windows\çalışma11.runtimeconfig.json
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma11\çalışma11\bin\Debug\net8.0-windows\çalışma11.dll
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma11\çalışma11\bin\Debug\net8.0-windows\çalışma11.pdb
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma11\çalışma11\obj\Debug\net8.0-windows\çalışma11.Form1.resources
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma11\çalışma11\obj\Debug\net8.0-windows\çalışma11.csproj.GenerateResource.cache
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma11\çalışma11\obj\Debug\net8.0-windows\çalışma11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma11\çalışma11\obj\Debug\net8.0-windows\çalışma11.AssemblyInfoInputs.cache
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma11\çalışma11\obj\Debug\net8.0-windows\çalışma11.AssemblyInfo.cs
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma11\çalışma11\obj\Debug\net8.0-windows\çalışma11.csproj.CoreCompileInputs.cache
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma11\çalışma11\obj\Debug\net8.0-windows\çalışma11.dll
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma11\çalışma11\obj\Debug\net8.0-windows\refint\çalışma11.dll
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma11\çalışma11\obj\Debug\net8.0-windows\çalışma11.pdb
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma11\çalışma11\obj\Debug\net8.0-windows\çalışma11.genruntimeconfig.cache
+C:\Users\zombi\OneDrive\Masaüstü\c#\çalışma11\çalışma11\obj\Debug\net8.0-windows\ref\çalışma11.dll

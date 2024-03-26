@@ -1,0 +1,21 @@
+DOM Manipülasyonu: JavaScript'te bir HTML elementine nasıl erişir ve onu nasıl değiştirirsiniz?
+
+Asenkron İşlemler: Promise nesnesinin ne olduğunu ve nasıl kullanıldığını açıklayın.
+
+Olay Yönetimi: Bir HTML butonuna tıklandığında bir fonksiyonu nasıl tetiklersiniz?
+
+Array Metodları: .map(), .filter(), ve .reduce() metodlarını nasıl kullanırsınız ve ne işe yararlar?
+
+ES6+ Özellikleri: Arrow fonksiyonlar (=>) ve spread operatörü (...) hakkında ne biliyorsunuz?
+
+JSON İşlemleri: JavaScript'te JSON verilerini nasıl ayrıştırırsınız ve nasıl bir JSON nesnesi oluşturursunuz?
+
+Event Bubbling ve Capturing: Event bubbling ve capturing kavramlarını açıklayabilir misiniz?
+
+Closure: JavaScript'te bir closure nedir ve nasıl çalışır?
+
+Prototype Tabanlı Kalıtım: JavaScript'teki prototip tabanlı kalıtımı açıklayabilir misiniz?
+
+Async/Await: async ve await anahtar kelimeleri ne işe yarar ve nasıl kullanılır?
+
+ES6 Modülleri: ES6 modülleri (import ve export ifadeleri) ne işe yarar ve neden kullanılır?

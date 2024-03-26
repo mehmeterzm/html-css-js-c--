@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ilk proje", "ilk proje\ilk proje.csproj", "{954165DA-A721-4C9F-B6BB-08F72ED3E143}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{954165DA-A721-4C9F-B6BB-08F72ED3E143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{954165DA-A721-4C9F-B6BB-08F72ED3E143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{954165DA-A721-4C9F-B6BB-08F72ED3E143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{954165DA-A721-4C9F-B6BB-08F72ED3E143}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFEE705C-F48C-486B-9137-1598D05D7F92}
+	EndGlobalSection
+EndGlobal

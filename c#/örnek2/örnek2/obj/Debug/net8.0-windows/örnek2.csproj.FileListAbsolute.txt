@@ -1,0 +1,16 @@
+C:\Users\zombi\OneDrive\Masaüstü\c#\örnek2\örnek2\bin\Debug\net8.0-windows\örnek2.exe
+C:\Users\zombi\OneDrive\Masaüstü\c#\örnek2\örnek2\bin\Debug\net8.0-windows\örnek2.deps.json
+C:\Users\zombi\OneDrive\Masaüstü\c#\örnek2\örnek2\bin\Debug\net8.0-windows\örnek2.runtimeconfig.json
+C:\Users\zombi\OneDrive\Masaüstü\c#\örnek2\örnek2\bin\Debug\net8.0-windows\örnek2.dll
+C:\Users\zombi\OneDrive\Masaüstü\c#\örnek2\örnek2\bin\Debug\net8.0-windows\örnek2.pdb
+C:\Users\zombi\OneDrive\Masaüstü\c#\örnek2\örnek2\obj\Debug\net8.0-windows\örnek2.Form1.resources
+C:\Users\zombi\OneDrive\Masaüstü\c#\örnek2\örnek2\obj\Debug\net8.0-windows\örnek2.csproj.GenerateResource.cache
+C:\Users\zombi\OneDrive\Masaüstü\c#\örnek2\örnek2\obj\Debug\net8.0-windows\örnek2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zombi\OneDrive\Masaüstü\c#\örnek2\örnek2\obj\Debug\net8.0-windows\örnek2.AssemblyInfoInputs.cache
+C:\Users\zombi\OneDrive\Masaüstü\c#\örnek2\örnek2\obj\Debug\net8.0-windows\örnek2.AssemblyInfo.cs
+C:\Users\zombi\OneDrive\Masaüstü\c#\örnek2\örnek2\obj\Debug\net8.0-windows\örnek2.csproj.CoreCompileInputs.cache
+C:\Users\zombi\OneDrive\Masaüstü\c#\örnek2\örnek2\obj\Debug\net8.0-windows\örnek2.dll
+C:\Users\zombi\OneDrive\Masaüstü\c#\örnek2\örnek2\obj\Debug\net8.0-windows\refint\örnek2.dll
+C:\Users\zombi\OneDrive\Masaüstü\c#\örnek2\örnek2\obj\Debug\net8.0-windows\örnek2.pdb
+C:\Users\zombi\OneDrive\Masaüstü\c#\örnek2\örnek2\obj\Debug\net8.0-windows\örnek2.genruntimeconfig.cache
+C:\Users\zombi\OneDrive\Masaüstü\c#\örnek2\örnek2\obj\Debug\net8.0-windows\ref\örnek2.dll

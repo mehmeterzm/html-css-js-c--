@@ -1,0 +1,6 @@
+C:\Users\zombi\OneDrive\Masaüstü\c#\interface\interface\obj\Debug\net8.0-windows\Form1.resources
+C:\Users\zombi\OneDrive\Masaüstü\c#\interface\interface\obj\Debug\net8.0-windows\interface.csproj.GenerateResource.cache
+C:\Users\zombi\OneDrive\Masaüstü\c#\interface\interface\obj\Debug\net8.0-windows\interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zombi\OneDrive\Masaüstü\c#\interface\interface\obj\Debug\net8.0-windows\interface.AssemblyInfoInputs.cache
+C:\Users\zombi\OneDrive\Masaüstü\c#\interface\interface\obj\Debug\net8.0-windows\interface.AssemblyInfo.cs
+C:\Users\zombi\OneDrive\Masaüstü\c#\interface\interface\obj\Debug\net8.0-windows\interface.csproj.CoreCompileInputs.cache

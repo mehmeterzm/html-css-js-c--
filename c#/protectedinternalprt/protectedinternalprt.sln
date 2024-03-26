@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "protectedinternalprt", "protectedinternalprt\protectedinternalprt.csproj", "{32B119F0-2A5F-427C-9FB1-95FFA8048455}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "denem2", "denem2\denem2.csproj", "{C9F55722-D7D9-4AE3-8DD0-23E899D8F1C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32B119F0-2A5F-427C-9FB1-95FFA8048455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B119F0-2A5F-427C-9FB1-95FFA8048455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B119F0-2A5F-427C-9FB1-95FFA8048455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B119F0-2A5F-427C-9FB1-95FFA8048455}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9F55722-D7D9-4AE3-8DD0-23E899D8F1C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9F55722-D7D9-4AE3-8DD0-23E899D8F1C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9F55722-D7D9-4AE3-8DD0-23E899D8F1C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9F55722-D7D9-4AE3-8DD0-23E899D8F1C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F0AFB65-0980-4B25-A177-0CDDFC50C6F6}
+	EndGlobalSection
+EndGlobal

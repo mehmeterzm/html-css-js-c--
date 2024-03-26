@@ -1,0 +1,37 @@
+
+.urun{
+    width: 33%;
+    border: 1px solid black;
+    text-align: center;
+}
+h4{
+    display: none;
+}
+.ur{
+    position: relative;
+}
+.ur span{
+   background-color: red;
+   color: white;
+   padding: 8px;
+   font-weight: bolder;
+   position: absolute;
+   right: 0;
+}
+.katalog{
+    display: flex;
+    flex-wrap: wrap;
+}
+@media (max-width:760px) {
+
+    .katalog{
+        flex-direction: column;
+
+    }
+    .urun{
+        width: 100%;
+    }
+    h4{
+        display: block;
+    }
+}

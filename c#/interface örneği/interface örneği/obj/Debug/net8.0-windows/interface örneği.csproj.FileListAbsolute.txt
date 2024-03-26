@@ -1,0 +1,16 @@
+C:\Users\zombi\OneDrive\Masaüstü\c#\interface örneği\interface örneği\bin\Debug\net8.0-windows\interface örneği.exe
+C:\Users\zombi\OneDrive\Masaüstü\c#\interface örneği\interface örneği\bin\Debug\net8.0-windows\interface örneği.deps.json
+C:\Users\zombi\OneDrive\Masaüstü\c#\interface örneği\interface örneği\bin\Debug\net8.0-windows\interface örneği.runtimeconfig.json
+C:\Users\zombi\OneDrive\Masaüstü\c#\interface örneği\interface örneği\bin\Debug\net8.0-windows\interface örneği.dll
+C:\Users\zombi\OneDrive\Masaüstü\c#\interface örneği\interface örneği\bin\Debug\net8.0-windows\interface örneği.pdb
+C:\Users\zombi\OneDrive\Masaüstü\c#\interface örneği\interface örneği\obj\Debug\net8.0-windows\interface_örneği.Form1.resources
+C:\Users\zombi\OneDrive\Masaüstü\c#\interface örneği\interface örneği\obj\Debug\net8.0-windows\interface örneği.csproj.GenerateResource.cache
+C:\Users\zombi\OneDrive\Masaüstü\c#\interface örneği\interface örneği\obj\Debug\net8.0-windows\interface örneği.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zombi\OneDrive\Masaüstü\c#\interface örneği\interface örneği\obj\Debug\net8.0-windows\interface örneği.AssemblyInfoInputs.cache
+C:\Users\zombi\OneDrive\Masaüstü\c#\interface örneği\interface örneği\obj\Debug\net8.0-windows\interface örneği.AssemblyInfo.cs
+C:\Users\zombi\OneDrive\Masaüstü\c#\interface örneği\interface örneği\obj\Debug\net8.0-windows\interface örneği.csproj.CoreCompileInputs.cache
+C:\Users\zombi\OneDrive\Masaüstü\c#\interface örneği\interface örneği\obj\Debug\net8.0-windows\interface örneği.dll
+C:\Users\zombi\OneDrive\Masaüstü\c#\interface örneği\interface örneği\obj\Debug\net8.0-windows\refint\interface örneği.dll
+C:\Users\zombi\OneDrive\Masaüstü\c#\interface örneği\interface örneği\obj\Debug\net8.0-windows\interface örneği.pdb
+C:\Users\zombi\OneDrive\Masaüstü\c#\interface örneği\interface örneği\obj\Debug\net8.0-windows\interface örneği.genruntimeconfig.cache
+C:\Users\zombi\OneDrive\Masaüstü\c#\interface örneği\interface örneği\obj\Debug\net8.0-windows\ref\interface örneği.dll
